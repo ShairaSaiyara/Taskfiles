@@ -1,3 +1,5 @@
 some text.
 some text for conflict.
+new text addded for merging.
+conflict resolved.
 
